@@ -139,6 +139,16 @@ h2 {
     line-height: 1.5;
 }
 
+/***********footer section***********/
+#footer {
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.social-icon {
+    padding: 20px 10px;
+}
+
 /***********mobile friendly settings***********/
 @media (max-width: 1050px) {
     #title {
